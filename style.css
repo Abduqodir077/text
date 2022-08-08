@@ -50,5 +50,14 @@ body{
 #btn3{
     display: none;
     transform: rotate(180deg);
+}
 
+.div2{
+    margin-top: 20px;
+    border: 1px solid white;
+    width: 220px;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
